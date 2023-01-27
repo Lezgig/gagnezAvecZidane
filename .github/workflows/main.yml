@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: gaillegue.eliot@gmail.com
+        username: GagnezAvecZidane
         password: gagnezAvecZidane
         server-dir : public_html/
